@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ae9b2d533b3bc739d12d6944a835659",
+    "revision": "4229f893ba7bb92c36cbe3d77a0fc7d7",
     "url": "/Baechu/index.html"
   },
   {
-    "revision": "d13827973be0422c0aae",
+    "revision": "73132a27b242a52f3542",
     "url": "/Baechu/static/css/2.ef00384d.chunk.css"
   },
   {
-    "revision": "3dcc7bf34c6c466f951a",
+    "revision": "0331a265ed7b6a870fce",
     "url": "/Baechu/static/css/main.be6f2de5.chunk.css"
   },
   {
-    "revision": "d13827973be0422c0aae",
-    "url": "/Baechu/static/js/2.9ee3d565.chunk.js"
+    "revision": "73132a27b242a52f3542",
+    "url": "/Baechu/static/js/2.5d955c1c.chunk.js"
   },
   {
     "revision": "548b0b217727df67e8341a6013b0ed9e",
-    "url": "/Baechu/static/js/2.9ee3d565.chunk.js.LICENSE.txt"
+    "url": "/Baechu/static/js/2.5d955c1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3dcc7bf34c6c466f951a",
-    "url": "/Baechu/static/js/main.ed070685.chunk.js"
+    "revision": "0331a265ed7b6a870fce",
+    "url": "/Baechu/static/js/main.f9d17965.chunk.js"
   },
   {
     "revision": "223f6e03c220685e41bb",
