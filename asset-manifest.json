@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Baechu/static/css/main.be6f2de5.chunk.css",
-    "main.js": "/Baechu/static/js/main.610d07d0.chunk.js",
-    "main.js.map": "/Baechu/static/js/main.610d07d0.chunk.js.map",
+    "main.js": "/Baechu/static/js/main.2161118d.chunk.js",
+    "main.js.map": "/Baechu/static/js/main.2161118d.chunk.js.map",
     "runtime-main.js": "/Baechu/static/js/runtime-main.996bbb57.js",
     "runtime-main.js.map": "/Baechu/static/js/runtime-main.996bbb57.js.map",
     "static/css/2.ef00384d.chunk.css": "/Baechu/static/css/2.ef00384d.chunk.css",
     "static/js/2.5d955c1c.chunk.js": "/Baechu/static/js/2.5d955c1c.chunk.js",
     "static/js/2.5d955c1c.chunk.js.map": "/Baechu/static/js/2.5d955c1c.chunk.js.map",
     "index.html": "/Baechu/index.html",
-    "precache-manifest.22adb1b6b1509569e6c0fc3c67523015.js": "/Baechu/precache-manifest.22adb1b6b1509569e6c0fc3c67523015.js",
+    "precache-manifest.466941731eca64b79fdc5c600da22699.js": "/Baechu/precache-manifest.466941731eca64b79fdc5c600da22699.js",
     "service-worker.js": "/Baechu/service-worker.js",
     "static/css/2.ef00384d.chunk.css.map": "/Baechu/static/css/2.ef00384d.chunk.css.map",
     "static/css/main.be6f2de5.chunk.css.map": "/Baechu/static/css/main.be6f2de5.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.ef00384d.chunk.css",
     "static/js/2.5d955c1c.chunk.js",
     "static/css/main.be6f2de5.chunk.css",
-    "static/js/main.610d07d0.chunk.js"
+    "static/js/main.2161118d.chunk.js"
   ]
 }
