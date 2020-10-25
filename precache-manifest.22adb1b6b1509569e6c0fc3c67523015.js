@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d005c22d49407c4095113ee078e904c",
+    "revision": "3155544dde35780f2a9705f504c03093",
     "url": "/Baechu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Baechu/static/css/2.ef00384d.chunk.css"
   },
   {
-    "revision": "0f66e97ac4a0a453c33a",
+    "revision": "c4523887991cd361df3b",
     "url": "/Baechu/static/css/main.be6f2de5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Baechu/static/js/2.5d955c1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f66e97ac4a0a453c33a",
-    "url": "/Baechu/static/js/main.2161118d.chunk.js"
+    "revision": "c4523887991cd361df3b",
+    "url": "/Baechu/static/js/main.610d07d0.chunk.js"
   },
   {
     "revision": "223f6e03c220685e41bb",
